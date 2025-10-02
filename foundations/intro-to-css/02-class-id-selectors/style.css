@@ -1,1 +1,21 @@
-/* Add CSS Styling */
+.redhead{
+    background-color: rgb(231, 55, 67);
+    font-family: 'DejaVu Sans', Verdana, sans-serif;
+}
+
+.redhead.larger{
+    font-size: 24px;
+}
+
+#bluehead{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#greenhead{
+    background-color: rgb(130, 216, 130);
+    font-size: 24px;
+    font-weight: 700;
+}
+
+
